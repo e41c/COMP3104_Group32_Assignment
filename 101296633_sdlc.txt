@@ -1,0 +1,12 @@
+# Software Development Life-Cycle (SDLC)
+
+Definition:
+    is a cost & time efficient process that development teams use to develope 
+    software.
+
+# Dev Ops engineers
+
+# Role in the SDLC
+    As for DevOps engineers roles in the SDLC. They consult with all development and operation teams
+    to introduce methodologies processes, tools to help align tasks & expectations within the
+    scope of the project.
