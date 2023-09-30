@@ -1,0 +1,13 @@
+# Dev Ops COMP3104
+
+Description:
+    A course designed to teach procedures, protocols and best practices that
+    a DevOps engineers use in workplace environments.
+
+Course Assesments  | Quantity | Weight
+    Quizzes:         8           8%
+    Lab Exercises    10          16%
+    Assignment       1           10%
+    Group Assignment 1           16%
+    Mid-term Exam    1           20%
+    Final Exam       1           30%
