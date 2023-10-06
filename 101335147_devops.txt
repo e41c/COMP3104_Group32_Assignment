@@ -1,1 +1,7 @@
-Initial Devops placeholder text
+COMP3104 - Topics so far
+Week 1 - Intro, BASH, CMD line
+week 2 - git, github, More BASH
+week 3 - Version Control For Devops
+week 4 - Developer Operations Landscape
+Week 5 - Hosting High Gear Single Page Applications & Work Tracking Tools
+...
