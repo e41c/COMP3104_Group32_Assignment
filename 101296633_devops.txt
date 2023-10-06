@@ -1,4 +1,4 @@
-# Dev Ops COMP3104
+Dev Ops COMP3104
 
 Description:
     A course designed to teach procedures, protocols and best practices that
