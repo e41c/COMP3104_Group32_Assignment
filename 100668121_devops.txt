@@ -1,0 +1,22 @@
+This file will contain information about COMP 3104
+DevOps course
+
+Course Code: COMP 3104
+
+Course Name: DevOps
+
+Overview: COMP 3104 is a course at George Brown College that focuses on DevOps practices and principles.
+
+Instructor: The course may be taught by a qualified instructor with experience in the field of DevOps.
+
+Duration: Typically, college courses have a specific duration, such as one semester or a certain number of weeks.
+
+Curriculum: The course curriculum may cover topics such as continuous integration, continuous deployment, containerization, version control, and automation.
+
+Prerequisites: There might be certain prerequisites or recommended prior knowledge for enrolling in this course, such as familiarity with programming languages or basic IT concepts.
+
+Hands-on Learning: Students may engage in practical exercises and projects to apply DevOps concepts in real-world scenarios.
+
+Assessment: The course may involve assignments, quizzes, exams, and possibly a final project to evaluate students' understanding of DevOps principles.
+
+Career Relevance: COMP 3104 may be designed to prepare students for careers in IT, software development, or related fields by providing them with valuable DevOps skills and knowledge.
