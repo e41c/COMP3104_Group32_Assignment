@@ -1,1 +1,9 @@
-Initial placeholder text for 101335147_sdlc.txt
+Benefits of DevOps In the software Development cycle
+Faster, better product delivery
+Faster issue resolution and reduced complexity
+Greater scalability and availability
+More stable operating environments
+Better resource utilization
+Greater automation
+Greater visibility into system outcomes
+Greater innovation
