@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d22299c8-2e0b-40cb-96b6-b81604cecea8" name="Changes" comment="added student details, to gb.txt including first, lastname and student #">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;e41c&quot;
+  }
+}</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="455e3d03-821a-4b4a-a8d6-569bbdce5b89" />
+        <option name="url" value="https://github.com/e41c/COMP3104_Group32_Assignment.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2W22DrRpBTj4F3GgHOoM6VsiK0R" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;100668121-Eric&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d22299c8-2e0b-40cb-96b6-b81604cecea8" name="Changes" comment="" />
+      <created>1695916237838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695916237838</updated>
+      <workItem from="1695916238914" duration="1388000" />
+      <workItem from="1695918590262" duration="719000" />
+      <workItem from="1695921277959" duration="173000" />
+      <workItem from="1695938716953" duration="12000" />
+      <workItem from="1695938877016" duration="4000" />
+      <workItem from="1695939716040" duration="603000" />
+      <workItem from="1695944978822" duration="692000" />
+      <workItem from="1695947034609" duration="33000" />
+      <workItem from="1695947240794" duration="197000" />
+      <workItem from="1696025453121" duration="69000" />
+    </task>
+    <task id="LOCAL-00001" summary="created the base txt files, for the 3 requirements">
+      <option name="closed" value="true" />
+      <created>1695945064045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695945064046</updated>
+    </task>
+    <task id="LOCAL-00002" summary="copied, and pasted the requirement for gb.txt file.  For content required">
+      <option name="closed" value="true" />
+      <created>1695945224900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695945224900</updated>
+    </task>
+    <task id="LOCAL-00003" summary="copied, and pasted the requirement for devops.txt file.  For content required">
+      <option name="closed" value="true" />
+      <created>1695945250758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695945250758</updated>
+    </task>
+    <task id="LOCAL-00004" summary="copied, and pasted the requirement for sdlc.txt file.  For content required">
+      <option name="closed" value="true" />
+      <created>1695945274843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695945274843</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added facts, about george brown college to gb.txt file">
+      <option name="closed" value="true" />
+      <created>1695945419997</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695945419997</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added info about COMP 3104 out devops cocurse, to the devops.txt file">
+      <option name="closed" value="true" />
+      <created>1695945491688</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695945491688</updated>
+    </task>
+    <task id="LOCAL-00007" summary="10 bullet-points on thhe imporant of learning Devops">
+      <option name="closed" value="true" />
+      <created>1695945543437</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695945543437</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added student details, to gb.txt including first, lastname and student #">
+      <option name="closed" value="true" />
+      <created>1695947422489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695947422489</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="created the base txt files, for the 3 requirements" />
+    <MESSAGE value="copied, and pasted the requirement for gb.txt file.  For content required" />
+    <MESSAGE value="copied, and pasted the requirement for devops.txt file.  For content required" />
+    <MESSAGE value="copied, and pasted the requirement for sdlc.txt file.  For content required" />
+    <MESSAGE value="added facts, about george brown college to gb.txt file" />
+    <MESSAGE value="added info about COMP 3104 out devops cocurse, to the devops.txt file" />
+    <MESSAGE value="10 bullet-points on thhe imporant of learning Devops" />
+    <MESSAGE value="added student details, to gb.txt including first, lastname and student #" />
+    <option name="LAST_COMMIT_MESSAGE" value="added student details, to gb.txt including first, lastname and student #" />
+  </component>
+</project>
