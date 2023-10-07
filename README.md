@@ -44,3 +44,6 @@ Three file names for each group member will be in given below format
 1.  Each group member should add and update **README.md** file to maintain their repository details. Also, put your group details **(10 Points)**
 1. Only **ONE** member will create pull request template using the following link **(04 Points)**
 [GitHub Pull Request Template](https://docs.github.com/) 
+
+# 101335147 - Chris Tri README.MD updated(merge resolution)
+  - 101335147_gb.txt, 101335147_sdlc.txt, 101335147_devops.txt, 10 commits and merged branch to main
