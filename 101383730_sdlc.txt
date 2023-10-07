@@ -1,0 +1,14 @@
+Here are some reasones why you would want
+to learn devops as a developer:
+
+-Faster Development: DevOps enables quicker 
+software development and releases.
+
+-Collaboration: It fosters collaboration between
+developers and operations teams.
+
+-Automation: DevOps automates repetitive tasks,
+reducing errors.
+
+-Quality Assurance: Continuous testing and 
+monitoring ensure better software quality.

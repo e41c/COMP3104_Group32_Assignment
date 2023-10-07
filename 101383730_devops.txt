@@ -1,0 +1,7 @@
+-COMP3104 DevOps
+-students in this course Students gain
+hands-on experience by working on projects
+that involve setting up Git repositories,
+creating CI/CD pipelines, automating builds and
+deployments, and managing infrastructure as code.
+-Proff: Pritesh Patel
