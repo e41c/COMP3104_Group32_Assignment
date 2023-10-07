@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d22299c8-2e0b-40cb-96b6-b81604cecea8" name="Changes" comment="added student details, to gb.txt including first, lastname and student #">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d22299c8-2e0b-40cb-96b6-b81604cecea8" name="Changes" comment="added yml file">
+      <change beforePath="$PROJECT_DIR$/.github/work/count-files.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/count-files.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/work/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -176,6 +180,7 @@
     <MESSAGE value="added info about COMP 3104 out devops cocurse, to the devops.txt file" />
     <MESSAGE value="10 bullet-points on thhe imporant of learning Devops" />
     <MESSAGE value="added student details, to gb.txt including first, lastname and student #" />
-    <option name="LAST_COMMIT_MESSAGE" value="added student details, to gb.txt including first, lastname and student #" />
+    <MESSAGE value="added yml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added yml file" />
   </component>
 </project>

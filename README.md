@@ -4,6 +4,8 @@
  Created 3x files 100668121_devops.txt, 100668121_gb.txt, 100668121_sdlc.txt
  completed 10x commits, and merged in with main branch
 
+Second edit, added a new line to the readme file
+
 ## Hello! Welcome to Group 32's Dev Ops Assignment
 My name is *Ryan Lee* and welcome to my branch of the assignment! The purpose of the assignment was to introduce us to basic bash line commands and GitHub repository structuring.
 
