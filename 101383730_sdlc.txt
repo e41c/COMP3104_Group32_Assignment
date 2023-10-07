@@ -6,3 +6,9 @@ software development and releases.
 
 -Collaboration: It fosters collaboration between
 developers and operations teams.
+
+-Automation: DevOps automates repetitive tasks,
+reducing errors.
+
+-Quality Assurance: Continuous testing and 
+monitoring ensure better software quality.
