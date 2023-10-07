@@ -1,0 +1,16 @@
+Current George Brown College Programs of Fall-2023
+# 1. Applied A.I Solutions Development (Postgraduate)(T431)
+# 2. Blockchain Development (T475)
+# 3. Cloud Computing Technologies (Postgraduate) (T465)
+# 4. Computer Programming and Analysis (T177)
+# 5. Computer PRogramming and Analysis (Online)(T297)
+# 6. Computer Systems technician (T141)
+# 7. Computer Systems Technician (Online)(T191)
+# 8. Computer SYstems Technology (T147)
+# 9. Computer Systems Technology (online)(T187)
+# 10. Cyber Security (Postgraduate)(T433)
+# 11. Game - Programming(T163)
+# 12. Game – Programming (Online) (T193)
+# 13. Health Informatics (Postgraduate) (T402)
+# 14. Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+....
